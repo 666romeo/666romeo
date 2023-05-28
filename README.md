@@ -4,15 +4,14 @@ I'm Egor.
 Currently learning to walk in WEB without falling on my bottom.
 Open to collaborating on interesting and innovative projects.
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
-<table>
-  <tr>
-    <td style="color: red">Ячейка 1</td>
-    <td>Ячейка 2</td>
-    <td>Ячейка 3</td>
-  </tr>
-</table>
+![Картинка][image1]
+![Картинка][image2]
+![Картинка][image3]
+
+[image1]: //placehold.it/250x100
+[image2]: //placehold.it/200x100
+[image3]: //placehold.it/150x100
 
 - 🔭 I’m currently working on ClickCustom (my pet project)
 - 🌱 I’m currently learning QA, python, web
