@@ -13,6 +13,10 @@
     <img src="https://camo.githubusercontent.com/0c0e22d1588f6edfb75fe219fa955e29966f3190a9d9e10cacdcaeb30e641334/68747470733a2f2f73756e392d37302e757365726170692e636f6d2f696d70672f385f6c6d6b4b3431382d484742462d355371584a6a49736168706550436f46456c4d434759672f52622d6537596d357943632e6a70673f73697a653d3735783230267175616c6974793d3936267369676e3d316338323930393365613035313632313531373062336432306635646238366326747970653d616c62756d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=flat-square&amp;logo=telegram" style="max-width: 100%;">
   </a>
 
+  <a href="https://linkedin.com/in/alposomn" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/8fdc1cc04c29ee0548aa86f0c3d3ca9b4e1736b51e60dbf94baf4f8aa37f411a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" style="max-width: 100%;">
+  </a>
+  
   <a href="https://leetcode.com/alposomn" rel="nofollow">
     <img src="https://camo.githubusercontent.com/727211edcb910fd8430af1c0bfdb79b1236fa62ed70b90372a6c456a312d88a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c656574436f6465" alt="LeetCode" data-canonical-src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&amp;logo=LeetCode" style="max-width: 100%;">
   </a>
