@@ -1,5 +1,5 @@
-<p align=center>### Hi there 👋</p>
-<p align=center>#### Welcome to my page!</p>
+<h1 align=center>### Hi there 👋</h1>
+<h3 align=center>Welcome to my page!</h3>
 I'm Egor.
 Currently learning to walk in WEB without falling on my bottom.
 Open to collaborating on interesting and innovative projects.
