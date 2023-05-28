@@ -4,6 +4,8 @@ I'm Egor.
 Currently learning to walk in WEB without falling on my bottom.
 Open to collaborating on interesting and innovative projects.
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
 <table>
   <tr>
     <td style="color: red">Ячейка 1</td>
