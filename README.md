@@ -6,7 +6,7 @@ Open to collaborating on interesting and innovative projects.
 
 <table>
   <tr>
-    <td>Ячейка 1</td>
+    <td style="color: red">Ячейка 1</td>
     <td>Ячейка 2</td>
     <td>Ячейка 3</td>
   </tr>
