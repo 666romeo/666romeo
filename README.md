@@ -6,7 +6,7 @@ Open to collaborating on interesting and innovative projects.
 
 
 <a href="https://t.me/alposomn" rel="nofollow">
-  <img src="https://w7.pngwing.com/pngs/441/227/png-transparent-blue-and-white-icon-illustration-telegram-logo-computer-icons-scalable-graphics-telegram-miscellaneous-blue-angle.png" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=flat-square&amp;logo=telegram" style="max-width: 100%;">
+  <img src="https://sun9-70.userapi.com/impg/8_lmkK418-HGBF-5SqXJjIsahpePCoFElMCGYg/Rb-e7Ym5yCc.jpg?size=75x20&quality=96&sign=1c829093ea0516215170b3d20f5db86c&type=album" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-blue?style=flat-square&amp;logo=telegram" style="max-width: 100%;">
 </a>
 
 <a href="https://leetcode.com/alposomn" rel="nofollow">
