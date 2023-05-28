@@ -14,7 +14,7 @@ Open to collaborating on interesting and innovative projects.
 </a>
 
 <a href="mailto:brovtsinegor@gmail.com" rel="nofollow">
-  <img src="https://sun9-40.userapi.com/impg/Ki-qENUVUK2UihFO8iEvKX6fX8SgZvk9WajUjQ/9Wtiz4DdyrA.jpg?size=75x20&quality=96&sign=27fcdbc1abaebaa83d795aacee234fc3&type=album" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-blue?style=flat-square&amp;logo=Gmail" style="max-width: 100%;">
+  <img src="https://sun9-67.userapi.com/impg/aylUm80jJ_kOhpZR0sDJ-ONM3OI8yz5XtISIaw/QlGLxGQAvPA.jpg?size=85x23&quality=96&sign=b7cfb3fd0a772ef1efbd0e3070ac29bf&type=album" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-blue?style=flat-square&amp;logo=Gmail" style="max-width: 100%;">
 </a>
 
 - 🔭 I’m currently working on ClickCustom (my pet project)
